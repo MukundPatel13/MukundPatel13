@@ -30,7 +30,7 @@ At HyperionDev, I:
   - Understood fundamental computer science topics such as Big O notation and time & space complexity.
 
 My master’s dissertation (grade awarded: 1st) was entitled “A Multiplatform Genome Analysis of Astrocytoma Tumour Data for the Purpose of Identifying Repositionable Clinical Drug Targets for Use in Personalised Cancer Therapy”. For this project I was required to teach myself the coding language R in a matter of months using online courses available on edX from Harvard and the University System of Maryland (USMx). This enabled me to carry out a complex statistical analysis using large datasets from a variety of sources including the Catalogue of Somatic Mutations in Cancer (COSMIC), DrugBank and the Open Target Platform in combination with a wide range of literature.
-- 📫 You can reach me through my email: tcarlnaccarato@gmail.com
+- 📫 You can reach me through my email: mukun.patel@gmail.com
 
 <!---
 tnaccarato/tnaccarato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
